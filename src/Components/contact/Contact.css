@@ -1,0 +1,91 @@
+.contact {
+  height: 100vh;
+  font-family: 'Ubuntu', sans-serif;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.contact h3 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.contact-me {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding-top: 0px;
+  font-size: 21px;
+}
+
+.message-me {
+  margin-right: 93px;
+}
+
+.my-contact {
+  width: 40%;
+  margin-left: 90px;
+}
+
+.input-row {
+  display: inline-block;
+}
+
+.input-row>input {
+  padding: 10px;
+  border-radius: 2px;
+}
+
+.email {
+  margin-left: 15px;
+}
+
+.subject {
+  margin-top: 15px;
+  width: 95%;
+  padding: 7px;
+  border-radius: 2px;
+}
+
+.message {
+  margin: 0%;
+  width: 381px;
+  height: 61px;
+  margin-top: 15px;
+  border-radius: 2px;
+}
+
+.button-click {
+  margin-top: 15px;
+}
+
+.button-click button {
+  background-color: black;
+  color: #E3E2DF;
+  margin: 0px;
+  padding: 7px;
+}
+
+.button-click button:hover {
+  color: crimson;
+  background-color: white;
+}
+
+.page-header {
+  font-size: 26px;
+  text-align: center;
+  margin: 80px 0px 65px 0px;
+}
+
+.info {
+  padding-top: 40px;
+}
+
+.info-field {
+  padding: 8px;
+}
+
+.info-field>span {
+  padding-left: 10px;
+  font-weight: 600;
+}

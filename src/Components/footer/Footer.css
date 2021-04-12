@@ -1,0 +1,20 @@
+footer {
+  background: #111;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+  margin-top: 35px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+footer span a {
+  color: crimson;
+  font-size: 18px;
+  text-decoration: none;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+footer span a:hover {
+  text-decoration: underline;
+}

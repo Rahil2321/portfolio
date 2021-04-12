@@ -1,0 +1,48 @@
+
+.top-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: black;
+  font-family: 'Ubuntu', sans-serif;
+  border-bottom: 2px solid #fff;
+  position: fixed;
+  width: 100%;
+}
+
+.top-nav.sticky {
+  background: crimson;
+}
+
+.brand-name {
+  color: white;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+h3>span {
+  color: #fff;
+  font-size: 30px !important;
+}
+
+.nav-links {
+  padding-top: 28px;
+  font-size: 20px;
+}
+
+.nav-links a {
+  text-decoration: none;
+  padding-left: 18px;
+  color: #E3E2DF;
+}
+
+.nav-links a:active {
+  font-weight: bold;
+
+  
+}
+
+a:hover {
+  color: #fff;
+  font-family: 12px;
+}
